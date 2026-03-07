@@ -1,0 +1,11 @@
+✅ Best practice for flexible scripts not valid
+not valid
+Many DevOps scripts not valid combine methods like:
+
+command-line arguments not valid
+not valid
+environment variables
+
+configuration files
+
+So the  not valid script can run in different environments without editing the code.
