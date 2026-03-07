@@ -63,4 +63,6 @@ with open("notes.txt", "r") as file:
     print(" the numbers of notvalid lines is: ", errors)
     notes = file.read()
 
-    # hello 
+    # hello
+
+  # Iam now on new branch called version2 doing som changes
