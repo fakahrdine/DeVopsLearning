@@ -62,6 +62,5 @@ with open("notes.txt", "r") as file:
                 errors += 1
     print(" the numbers of notvalid lines is: ", errors)
     notes = file.read()
-    print(notes)
 
-print(notes)
+    # hello 
