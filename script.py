@@ -66,3 +66,5 @@ with open("notes.txt", "r") as file:
     # hello
 
   # Iam now on new branch called version2 doing som changes
+    print("I am mohamed got about tp merge into masters branch")
+
