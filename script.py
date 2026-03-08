@@ -35,4 +35,3 @@ if __name__ == "__main__":
     print(pocket_message(num1))
     print("Website is working" if website_is_working() else "Website is not working")
     print("The number of invalid lines is:", count_invalid_lines())
-
