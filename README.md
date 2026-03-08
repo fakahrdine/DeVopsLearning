@@ -8,7 +8,7 @@ It contains experiments, scripts, and examples related to automation, version co
 The goal of this project is to build practical skills and maintain a collection of DevOps examples that demonstrate real-world development and deployment workflows.
 
 ---
-
+-
 ## Topics Covered
 
 This repository may include examples and experiments with:
